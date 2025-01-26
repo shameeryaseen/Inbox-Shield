@@ -72,7 +72,7 @@ graph TD
 ## 🚀 Quick Start
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/inbox-shield.git
+git clone https://github.com/shameeryaseen/inbox-shield.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -97,18 +97,8 @@ python src/spam_detector.py
 4. Push to the branch
 5. Create a new Pull Request
 
-## 📄 License
-MIT License
-
 ## 🏆 Achievements
 - Developed during academic project
 - Achieved state-of-the-art spam detection accuracy
 - Demonstrates advanced machine learning techniques
 
-## 📧 Contact
-Mahammad Shameer Yaseen Shaik
-- Email: shameermahammad7@gmail.com
-- LinkedIn: [Your LinkedIn Profile]
-```
-
-Would you like me to elaborate on any section of the README or explain the contents in more detail?
