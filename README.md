@@ -1,15 +1,15 @@
-# 📧 Inbox Shield: Machine Learning Email Spam Classifier
+Inbox Shield: Machine Learning Email Spam Classifier
 
-## 🌟 Project Overview
+Project Overview
 Inbox Shield is an advanced machine learning-powered email spam classification system designed to protect users from unwanted and potentially harmful emails.
 
-## 🚀 Key Features
+Key Features
 - 98.6% Accuracy in Spam Detection
 - Machine Learning Classification
 - Real-time Email Analysis
 - Multi-dimensional Spam Detection Techniques
 
-## 📊 Project Architecture
+Project Architecture
 ```
 spam-classifier/
 │
@@ -31,7 +31,7 @@ spam-classifier/
 └── requirements.txt
 ```
 
-## 🛠 Technologies Used
+Technologies Used
 - Python
 - Scikit-learn
 - Pandas
@@ -39,20 +39,20 @@ spam-classifier/
 - Natural Language Processing (NLP)
 - Machine Learning Algorithms
 
-## 📈 Performance Metrics
+Performance Metrics
 - Accuracy: 98.6%
 - Precision: 97.2%
 - Recall: 96.5%
 - F1-Score: 96.8%
 
-## 🔍 How It Works
+How It Works
 1. **Data Collection**: Gather email datasets
 2. **Preprocessing**: Clean and transform text data
 3. **Feature Extraction**: Convert text to numerical features
 4. **Model Training**: Use machine learning algorithms
 5. **Classification**: Predict spam probability
 
-## 🖼️ Workflow Diagram
+Workflow Diagram
 ```mermaid
 graph TD
     A[Raw Email Data] --> B[Text Preprocessing]
@@ -64,12 +64,12 @@ graph TD
     F -->|Low| H[Mark as Ham]
 ```
 
-## 🔬 Machine Learning Pipeline
+Machine Learning Pipeline
 - **Vectorization**: CountVectorizer
 - **Classification Algorithm**: Multinomial Naive Bayes
 - **Cross-Validation**: 5-fold stratified validation
 
-## 🚀 Quick Start
+Quick Start
 ```bash
 # Clone the repository
 git clone https://github.com/shameeryaseen/inbox-shield.git
@@ -81,24 +81,24 @@ pip install -r requirements.txt
 python src/spam_detector.py
 ```
 
-## 📊 Sample Results
+Sample Results
 ![Spam Classification Results](results_visualization.png)
 
 https://github.com/user-attachments/assets/de3146b2-8efc-456a-b72e-6b0091053462
-## 📌 Future Improvements
+Future Improvements
 - Implement deep learning models
 - Add multi-language support
 - Create browser extension
 - Real-time learning capabilities
 
-## 🤝 Contributing
+Contributing
 1. Fork the repository
 2. Create your feature branch
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
 
-## 🏆 Achievements
+Achievements
 - Developed during academic project
 - Achieved state-of-the-art spam detection accuracy
 - Demonstrates advanced machine learning techniques
